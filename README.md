@@ -1,5 +1,5 @@
 ### Hi there I am Arundev👋
-A starting Full Stack Developer proficient in programming languages such as HTML, CSS, JavaScript, and Python. Experienced with frameworks such as React, Node.js, and Django. A creative problem solver, a strong collaborator, and always strive to learn new technologies and stay up-to-date with the latest industry trends.Excited to start my journey as a Full Stack Developer and contribute to any development team.
+A starting Full Stack Developer proficient in programming languages such as HTML, CSS, JavaScript, and Python. Experienced with frameworks such as React and Node.js. A creative problem solver, a strong collaborator, and always strive to learn new technologies and stay up-to-date with the latest industry trends.Excited to start my journey as a Full Stack Developer and contribute to any development team.
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://itsmearun1.github.io/)
