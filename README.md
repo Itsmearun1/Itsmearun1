@@ -5,9 +5,9 @@ A starting Full Stack Developer proficient in programming languages such as HTML
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://itsmearun1.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arundev-vb-139014211//)
 
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmearun1&layout=compact"/>  
-<img align="left" width ="47%" src="https://github-readme-stats.vercel.app/api?username=Itsmearun1&show_icons=true&theme=radical"/>
-                             
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Itsmearun1&show_icons=true&theme=radical"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmearun1&layout=compact"/>  
+                           
 [![Arundev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Itsmearun1&theme=react)](https://github.com/Itsmearun1/github-readme-activity-graph)
 
 
