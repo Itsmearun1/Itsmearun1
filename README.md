@@ -8,7 +8,9 @@ A starting Full Stack Developer proficient in programming languages such as HTML
 
 ![Arundev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsmearun1&show_icons=true&theme=radical)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Itsmearun1&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Arundev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Itsmearun1&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmearun1)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🛠 Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
