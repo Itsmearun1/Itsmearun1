@@ -18,9 +18,7 @@ A starting Full Stack Developer proficient in programming languages such as HTML
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-## 🔗 Links 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sakshimulekar.github.io/) 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sakshi-mulekar-27156322b//)
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Itsmearun1&show_icons=true&theme=radical"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmearun1&layout=compact"/>  
 
