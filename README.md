@@ -5,6 +5,7 @@ A starting Full Stack Developer proficient in programming languages such as HTML
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://itsmearun1.github.io/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arundev-vb-139014211//)
 
+
 ## 🛠 Skills
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -16,9 +17,12 @@ A starting Full Stack Developer proficient in programming languages such as HTML
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Itsmearun1&show_icons=true&theme=radical"/>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmearun1&layout=compact"/>  
 
-                           
+
+
 [![Arundev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Itsmearun1&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
