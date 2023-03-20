@@ -6,7 +6,7 @@ A starting Full Stack Developer proficient in programming languages such as HTML
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arundev-vb-139014211//)
 
 
-![Arundev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsmearun1&show_icons=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmearun1)](https://github.com/Itsmearun1/github-readme-stats)
+![Arundev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itsmearun1&show_icons=true&theme=radical)   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmearun1&layout=compact)](https://github.com/Itsmearun1/github-readme-stats)
 
 [![Arundev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Itsmearun1&theme=react)](https://github.com/Itsmearun/github-readme-activity-graph)
 
