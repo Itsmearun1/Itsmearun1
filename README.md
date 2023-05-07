@@ -26,5 +26,5 @@ A starting Full Stack Developer proficient in programming languages such as HTML
 
 [![Arundev's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Itsmearun1&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Itsmearun1&theme=onedark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itsmearun1)](https://github.com/anuraghazra/github-readme-stats)
+
 
